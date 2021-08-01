@@ -1,0 +1,10 @@
+ body {
+      
+        background: #333;
+        transition: all 1.5s;
+    }
+
+    h2, h4, li{
+    	color: #fff;
+    }
+

@@ -1,0 +1,343 @@
+/** Black Theme **/
+.nav-tabs > li > a:hover{
+    background: #fff;
+    color: #555;
+}
+.pager li > a, .pager li > span{
+    background-color: #666;
+}
+.pager li > a:focus, .pager li > a:hover {
+    background-color: #666;
+}
+.notice-date {
+    background: #4c4c4c;
+}
+#edit-years, form#search-form input[type=search], form#search-form input#edit-submit{
+    color: #ff0;
+    background-color: #4c4c4c;
+}
+#views-exposed-form-pension-family-welfare-letter-pension-family-welfare-letter input, #views-exposed-form-guideline-page-1 input, #views-exposed-form-order-of-allocation-of-funds-to-bodies-page-1 input, #views-exposed-form-sancaalanaalaya-davaaraa-jaarai-mahatavapauurana-nairadaesa-page-1 input, #views-exposed-form-ulb-ward-periseeman-2019-page-1 input, #views-exposed-form-mahatavapauurana-sauucanaa-pension-family-welfare-letter input, #views-exposed-form-budget-page-1 input, #views-exposed-form-naveen-anshdayi-scheme-page-1 input, #views-exposed-form-narwa-garwa-ghurwa-badi-scheme-page-1 input
+{
+    color: #ff0;
+    background-color: #4c4c4c;
+}
+form#webform-submission-feedback-add-form label {
+    color: #ff0;
+}
+ul.sf-menu.sf-style-default li, ul.sf-menu.sf-style-default.sf-navbar {
+    background: #000000;
+}
+
+form#views-exposed-form-recruitment-page-1 select#edit-field-type-value {
+    background: #1f2024;
+}
+.btn-default:hover {
+    color: #ff0;
+    background-color: #1f2024;
+}
+.btn-default {
+    color: #ff0;
+    background-color: #1f2024;
+    border-color: #ccc;
+}
+#block-visitors {
+    color: #ff0;
+    background: transparent;
+}
+ul.sf-menu.sf-style-default a, ul.sf-menu.sf-style-default a:visited, ul.sf-menu.sf-style-default span.nolink {
+    color: #ff0;
+    background: #000000;
+
+}
+ul.sf-menu.sf-style-default li:hover, ul.sf-menu.sf-style-default li.sfHover, ul.sf-menu.sf-style-default a.is-active, ul.sf-menu.sf-style-default a:focus, ul.sf-menu.sf-style-default a:hover, ul.sf-menu.sf-style-default span.nolink:hover {
+    background: #1f2024;
+    color: #ff0
+}
+#views-exposed-form-pension-family-welfare-letter-pension-family-welfare-letter, #views-exposed-form-guideline-page-1, #views-exposed-form-order-of-allocation-of-funds-to-bodies-page-1, #views-exposed-form-sancaalanaalaya-davaaraa-jaarai-mahatavapauurana-nairadaesa-page-1, #views-exposed-form-ulb-ward-periseeman-2019-page-1, #views-exposed-form-mahatavapauurana-sauucanaa-pension-family-welfare-letter, #views-exposed-form-budget-page-1, #views-exposed-form-naveen-anshdayi-scheme-page-1, #views-exposed-form-narwa-garwa-ghurwa-badi-scheme-page-1{
+    background: #1f2024;
+}
+
+table.views-table tr td{
+      color: #ff0;
+}
+i.fa.fa-camera {
+    color: #fff;
+}
+.newsleft{
+  border-right: 1px solid #4c4c4c;
+}
+#block-languageswitcher li a {
+    color: #ff0;
+    background: transparent;
+}
+.footer02 p {
+  background: transparent;
+    color: #ff0;
+}
+.row.img-thumbnail {
+    background: transparent;
+}
+#block-views-block-state-commissioner-block-1 .block-title {
+
+    background: #000000;
+    color: #ff0;
+}
+.navigation_container .rm-closed li li.rm-focused > a, .navigation_container .rm-closed li li:hover > a, .navigation_container .rm-closed li li a:hover, .navigation_container .rm-closed li li a:focus, .navigation_container .rm-fullmenu li li.rm-focused > a, .navigation_container .rm-fullmenu li li:hover > a, .navigation_container .rm-fullmenu li li a:hover, .navigation_container .rm-fullmenu li li a:focus {
+
+    color: #ff0;
+}
+.navigation_container li {
+    background: #333333;}
+.navigation_container .active a{    color: #ff0;}
+.navigation_container a{color: #ff0;}
+.navigation_container a {
+    background: #000 !important;}
+.item-list li{list-style-image: url(../../../../../sites/default/files/images/barrow1.png) !important;}
+.color-box-1 .block-title, .color-box-2 .block-title, .color-box-3 .block-title, .color-box-4 .block-title{margin: 0;}
+.color-box-1, .color-box-2, .color-box-3, .color-box-4{    border: none;}
+.siderbartitle #block-views-block-what-s-new-block-1 {
+    border: none;
+    background: #1f2024;
+    padding: 1px;
+}
+
+.top-header01 {
+    background: #808080;
+}
+
+.m_content {
+    color: #ff0!important;
+}
+
+.skiptoreader {
+    color: #ff0!important;
+}
+
+.lib-panel .row, .lib-panel .col-md-6 {
+
+    background-color: #666;
+}
+.lib-panel .lib-row.lib-header {
+    background-color: #666;}
+.siderbartitle .item-list li{list-style-image: url(../../../../../sites/default/files/images/barrow1.png) !important;}
+
+.table-bordered > thead > tr > td, .table-bordered > thead > tr > th {
+
+    background: #000;
+}
+.color-box-1 .block-title, .color-box-2 .block-title, .color-box-3 .block-title, .color-box-4 .block-title{margin: 0;}
+.color-box-1 .block-content, .color-box-2 .block-content, .color-box-3 .block-content, .color-box-4 .block-content{border: none; background: #4c4c4c;}
+.main div {
+    color: #ff0;
+}
+.main {
+    background: #333;
+}
+p {
+
+    color: #ff0;
+}
+.h1, .h2, .h3, h1, h2, h3 {
+
+    color: #ff0;
+}
+.path-node .main {
+    background: #333;
+}
+body span {
+    color: #ff0;
+}
+ol.breadcrumb-items li{color: #ff0;}
+.fa-home:before {
+
+    color: #ff0;
+}
+.fa-angle-double-right:before {
+
+    color: #ff0;
+}
+#breadcrumb, .breadcrumb {
+
+    background-color: #4c4c4c;
+}
+.sm-clean a, .sm-clean a:hover, .sm-clean a:focus, .sm-clean a:active, .sm-clean a.highlighted {
+
+    color: #ff0;
+
+}
+.sm-clean .active .is-active {    color: #FF0;}
+.sm-clean .active .is-active {
+    background-image: linear-gradient(to bottom, #000, #000);
+    background: #000;
+    background-image: linear-gradient(to bottom, #000, #000);
+    background-image: linear-gradient(to bottom, #000, #000);
+}
+
+
+
+#block-none-2 div {
+    color: #ff0;
+
+}
+#block-footermenu ul li{border-right: 1px #ff0 solid;}
+#block-footermenu ul li a{color: #ff0;}
+.blocktabs .more-link a{
+
+    background: none !important;
+}
+.ui-state-default a, .ui-state-default a:link {
+    color: #ff0 !important;
+}
+.news-box .more-link a {
+    background: none !important;
+}
+.whats-new .more-link a {
+    background: none !important;
+}
+.sm-clean ul{background: #333 !important;}
+.sm-clean .sm-nowrap > li > a{background: #333 !important;color: #ff0;}
+.sm-clean ul a:hover{background: #333 !important;}
+.sm-clean ul{border: 1px solid #333 !important;
+
+padding: 5px 0 !important;}
+.sm-clean {
+
+    background: #333 !important;}
+#cssmenu ul li a {
+    color: #ff0;
+}
+.main-nav {
+
+    background: #333 !important;}
+.sm-clean ul{background: #333 !important;}
+.sm-clean .sm-nowrap > li > a{background: #333 !important;}
+.sm-clean ul a:hover{background: #333 !important;}
+.sm-clean ul{border: 1px solid #333 !important;
+
+padding: 5px 0 !important;}
+.sm-clean {
+
+    background: #000 !important;}
+#cssmenu ul li a {
+    color: #ff0;
+}
+a {color: #ff0;}
+.item-list-slider a {
+    color: #ff0;
+}
+.more-link a:hover {
+    color: #ff0!important;
+}
+.more-link a { color: #ff0!important;}
+
+.menu-bg {background: #000 !important;}
+#block-views-block-what-s-new-block-1 h3 {background: #4c4c4c;     color: #ff0;    border-left: 5px solid #FFF;}
+a.style-switcher.custom-style.style-default.local:hover{color:#333 !important;}
+.newsleft {background: #333;}
+a { color: #ff0;}
+.news-slider {background: #4c4c4c;}
+.newsmarquee {
+    background: #4c4c4c;
+}
+
+.main-banner-01 {
+    background: #666;}
+
+.more-link a {background: #333;}
+
+.views-slideshow-controls-bottom {background: #333}
+#block-views-block-what-s-new-block-1 .item-list li {
+list-style-image: url('../../../../../sites/default/files/images/barrow1.png') !important;}
+
+.middlebox .item-list ul li {
+list-style-image: url('../../../../../sites/default/files/images/barrow1.png') !important;}
+
+.color-box-1, .color-box-2, .color-box-3, .color-box-4 {
+background: #1f2024!important; border: none;}
+
+.color-box-1 .blk-title, .color-box-2 .blk-title, .color-box-3 .blk-title, .color-box-4 .blk-title{ background: #4c4c4c!important;}
+ul li span a {color: #ff0;}
+
+.about-section {
+    background: #555;
+   }
+
+
+ .about-us .block-title {
+    border: 1px solid #dbdbdb;
+   border-left: 3px solid #fff;
+    border-right: 3px solid #fff;
+    color: #ff0;
+   background: #555;
+}
+
+
+   .field-content p {color:#ff0;}
+   .about-us .more-link a {background: #333;}
+   .gal-image .block-title {
+    border-left: 3px solid #fff;
+    border-right: 3px solid #fff;
+    color: #ff0;
+ background: #555!important;
+
+}
+
+.min-name {color: #ff0;}
+.min-pos {color: #ff0;}
+.tabs-section {background: #777;}
+.ui-widget-header {
+    background: #9d9d9d;
+}
+
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
+ border: 1px solid #555;
+background: #555;}
+
+
+.ui-state-active, .ui-widget-content .ui-state-active {
+    border: 1px solid #000;
+    border-bottom-width: 1px;
+    background: #000;
+   color: #ff0;
+}
+
+a:focus, a:hover {
+    color: #ff0;
+ }
+
+ .ui-widget-content    {background: #333;}
+   .ui-widget-content a {
+    color: #ff0;
+}
+
+   .ui-state-default a, .ui-state-default a:link {
+    color: #ff0;}
+
+	.gallery .owl-pagination {background: #333;}
+
+	.gallery-title {
+    border: 1px solid #dbdbdb;
+    padding: 7px;
+    border-left: 3px solid #fff;
+    border-right: 3px solid #fff;
+    color: #ff0;
+    background: #333;
+
+}
+.ui-corner-all, .ui-corner-bottom, .ui-corner-right, .ui-corner-br {
+    border-bottom-right-radius: 0px!important;
+}
+.ui-corner-all, .ui-corner-bottom, .ui-corner-right, .ui-corner-br {
+    border-bottom-left-radius: 0px!important;
+}
+
+.footer-01 {
+    border-top: 5px solid #777;
+    background: #000 !important;
+}
+.hindis {background: #333;}
+.align-center { color: #ff0;}
+
+.news-slider a {color: #ff0!important;}
+.tabs .item-list li { list-style-image: url('../../../../../sites/default/files/images/barrow1.png')!important;}
+
